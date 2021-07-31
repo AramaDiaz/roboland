@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/roboland/static/css/main.87ea12f8.chunk.css",
+    "main.js": "/roboland/static/js/main.fe876526.chunk.js",
+    "main.js.map": "/roboland/static/js/main.fe876526.chunk.js.map",
+    "runtime-main.js": "/roboland/static/js/runtime-main.cf28d729.js",
+    "runtime-main.js.map": "/roboland/static/js/runtime-main.cf28d729.js.map",
+    "static/js/2.2546a4ea.chunk.js": "/roboland/static/js/2.2546a4ea.chunk.js",
+    "static/js/2.2546a4ea.chunk.js.map": "/roboland/static/js/2.2546a4ea.chunk.js.map",
+    "static/js/3.eac25d83.chunk.js": "/roboland/static/js/3.eac25d83.chunk.js",
+    "static/js/3.eac25d83.chunk.js.map": "/roboland/static/js/3.eac25d83.chunk.js.map",
+    "index.html": "/roboland/index.html",
+    "static/css/main.87ea12f8.chunk.css.map": "/roboland/static/css/main.87ea12f8.chunk.css.map",
+    "static/js/2.2546a4ea.chunk.js.LICENSE.txt": "/roboland/static/js/2.2546a4ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf28d729.js",
+    "static/js/2.2546a4ea.chunk.js",
+    "static/css/main.87ea12f8.chunk.css",
+    "static/js/main.fe876526.chunk.js"
+  ]
+}
