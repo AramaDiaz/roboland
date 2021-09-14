@@ -1,0 +1,17 @@
+.search {
+    -webkit-appearance: none;
+    border: none;
+    outline: none;
+    padding: 10px;
+    width: 150px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+@media screen and (max-width: 800px) {
+    .search {
+      width: 120px;
+      line-height: 20px;
+    }
+  }

@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  width: auto;
+}
+
+h1 {
+  font-family: 'Bigelow Rules';
+  font-size: 72px;
+  color: #0ccac4;
+}
+
+@media screen and (max-width: 800px) {
+  h1 {
+    font-size: 60px;
+  }
+
+  h2 {
+    font-size: large;
+  }
+}
